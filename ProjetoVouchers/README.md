@@ -1,6 +1,6 @@
 # Olá!
 
-Nesse repositório você encontrará projetos em Excel feitos para solucionar problemas reais que eu encontrei no meu dia a dia, trabalhando como analista de dados.
+Esse projeto foi uma solução encontrada para permitir e guardar informações sobre cadastro, ativação e venda de Vouchers/Pacotes.
 
 Atenciosamente Vinicius A. Marques.
 
